@@ -5,7 +5,7 @@
 }
 
 .custom-image-teppoki {
-    width: 70%; /* Adjust to the desired width */
+    width: 50%; /* Adjust to the desired width */
     height: auto; /* Adjust height proportionally */
     object-fit: contain; /* Or use 'cover' */
 }
