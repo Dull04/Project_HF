@@ -1,0 +1,117 @@
+.custom-image {
+    width: 135px;
+    height: 100px;
+    object-fit: cover; /* Ensures the image covers the entire area without distortion */
+}
+
+.custom-image-about-us {
+    width: 700px;
+    height: 700px;
+    object-fit: cover; /* Ensures the image covers the entire area without distortion */
+}
+
+.custom-image-teppoki {
+    width: 70%; /* Adjust to the desired width */
+    height: auto; /* Adjust height proportionally */
+    object-fit: contain; /* Or use 'cover' */
+}
+
+.custom-image-best-seller{
+    width: 700px;
+    height: 700px;
+}
+
+.shojumaru-text-best-seller{
+    font-family: 'Shojumaru', cursive;
+    font-size: 100px;
+    color: #901515;
+}
+
+.custom-text {
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+
+.center-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Adjust as needed */
+}
+
+.padding{
+    margin-right: 200px;
+}
+
+.margin-sekian-kiri{
+    margin-left: 0px;
+}
+
+.shojumaru-text {
+    font-family: 'Shojumaru', cursive;
+    font-size: 40px;
+}
+
+.shojumaru-text-about-us {
+    font-family: 'Shojumaru', cursive;
+    font-size: 70px;
+}
+
+.margin-sekian-kanan{
+    margin-right: 50px;
+}
+
+.bg-red{
+    width: 100%;
+    background-color: #901515;}
+
+
+
+.mt-sekian{
+    margin-top: 120px;
+}
+
+.custom-margin-left {
+    margin-left: 120px; /* Adjust this value as needed */
+}
+
+.white{
+    color: white;
+}
+
+.mt-sekian-pisan{
+    margin-top: 250px;
+}
+
+.gradient-background {
+    width: 50%;
+    background-image: linear-gradient(to left, #FFAA47, #FFFFFF); /* Example gradient */
+}
+
+.custom-height {
+    height: max-content; /* Adjust this to your desired height */
+}
+
+.custom-row {
+    height:500px; /* Adjust the height as needed */
+}
+
+.d-flex {
+    display:grid;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.justify-content-start {
+    justify-content: flex-start;
+}
+
+.text-container {
+    width: 100%;
+    text-align: center;
+}
