@@ -60,13 +60,18 @@
     font-size: 70px;
 }
 
+.click{
+    color: #901515;
+}
+
 .margin-sekian-kanan{
     margin-right: 50px;
 }
 
 .bg-red{
     width: 100%;
-    background-color: #901515;}
+    background-color: #901515;
+}
 
 
 
