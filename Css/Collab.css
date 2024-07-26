@@ -1,24 +1,24 @@
 
 .custom-text {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Fredoka', sans-serif;
     font-size: 25px;
     font-weight: 500;
 }
 
 .custom-text-footer{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Fredoka', sans-serif;
     font-size: 35px;
     font-weight: 700;
 }
 
 .custom-text-h1{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Fredoka', sans-serif;
     font-size: 25px;
     font-weight: 700;
 }
 
 .custom-text-h2{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Fredoka', sans-serif;
     font-size: 20px;
     font-weight: 500;
 }
@@ -67,6 +67,11 @@
 .space-v1{
     margin-left: 30px;
 }
+.custom-text-header{
+    font-family: 'Fredoka', sans-serif;
+    font-size: 25px;
+    font-weight: 800;
+}
 
 .bawah{
     margin-bottom: 5px;
@@ -96,14 +101,14 @@
     height: 400px;
     overflow: hidden;
     border-radius: 100%;
-    margin: -250px auto 0;
+    margin: -220px auto 0;
 }
 .card-custom .card-body {
     padding: 15px;
 }
 
 .card-custom .card-title {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Fredoka', sans-serif;
     font-size: 40px;
     font-weight: bold;
     color: #901515;
@@ -114,7 +119,7 @@
 }
 
 .card-custom .card-text {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Fredoka', sans-serif;
     font-size: 20px;
     font-weight:600;
     color: #000000;
